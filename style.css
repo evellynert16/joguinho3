@@ -20,10 +20,11 @@ body {
 
 .caixa-principal{
     background-color: var(--cor-principal);
-    width: 90%;
-    max-width: 600px;
+    width: 80%;
+    max-width: 900px;
     text-align: center;
-    padding: 20px;
+    padding: 80px;
+    font-size: 130%;
 }
 
 h1, .caixa-perguntas, .caixa-resultado{
