@@ -1,6 +1,7 @@
 export const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: " Gru estava tranquilamente aproveitando sua aposentadoria, quando de repente recebe uma ligação da AVL, em que se tratava de uma reatividade de seus serviços. que no caso seria para capturar e prender o VETOOORR AEEEE 
+",
         alternativas: [
             {
                 texto: "Isso é assustador!",
