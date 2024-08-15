@@ -5,16 +5,14 @@ export const perguntas = [
             {
                 texto: "Gru aceita a proposta e larga sua aposentadoria para prender o VETOOORR AEEEE",
                 afirmacao: [
-                    "No início ficou com medo do que essa tecnologia pode fazer.",
-                    "Achou assustador pensar na velocidade na qual a tecnologia está avançando."
+                    "Senhor Bundowisk informa que Vetor está voltando de sua solidão na lua, e pretende aniquilar todos da AVL e principalmente o senhor Bundowisk, por ser seu parente e nunca ter ajudado a sair da lua, e Bundowisk queria saber se Gru com suas habilidades não poderia impedir os planos de Vetor. construindo uma super arma de gelo para impedir que Vetor destrua a AVL"
                 ],
                 proxima: 1,
             },
             {
                 texto: "Ele recusou por estar cansado dessa vida, e só quer passar o tempo com a Lucy e as crianças ",
                 afirmacao: [
-                    "Quis saber como usar IA no seu dia a dia.",
-                    "Pensou que IA pode ajudar em tarefas da sua vida."
+                    "Como o Gru tinha dito estava só querendo aproveitar sua aposentadoria, mas recebe outra ligação de um outro número desconhecido, e quando ele atende quem estava do outro lado? exato o Vetor, e ele fez seguinte pergunta "venha Gru se vingue comigo, vamos reviver o passado"
                 ],
                 proxima: 2,
             },
