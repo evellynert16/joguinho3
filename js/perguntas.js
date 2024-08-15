@@ -23,8 +23,7 @@ export const perguntas = [
         enunciado: "Senhor Bundowisk informa que Vetor está voltando de sua solidão na lua, e pretende aniquilar todos da AVL e principalmente o senhor Bundowisk, por ser seu parente e nunca ter ajudado a sair da lua, e Bundowisk queria saber se Gru com suas habilidades não poderia impedir os planos de Vetor. construindo uma super arma de gelo para impedir que Vetor destrua a AVL",
         alternativas: [
             {
-                texto: "Ele ajuda o SR. Bundowisk a combater a maldade do seu sobrinho Vetor com arma de gelo."
-                
+                texto: "Ele ajuda o SR. Bundowisk a combater a maldade do seu sobrinho Vetor com arma de gelo.",
                 afirmacao: [
                     "ele concorda em ajudar, mas sugere fazer uma arma de bomba de chiclete, fazendo-o vetor ficar preso na gosma do chiclete."
                 ],
