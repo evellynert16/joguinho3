@@ -26,16 +26,14 @@ export const perguntas = [
                 texto: "Ele ajuda o SR. Bundowisk a combater a maldade do seu sobrinho Vetor com arma de gelo."
                 
                 afirmacao: [
-                    "ele concorda em ajudar, mas sugere fazer uma arma de bomba de chiclete, fazendo-o vetor ficar preso na gosma do chiclete.
-"
+                    "ele concorda em ajudar, mas sugere fazer uma arma de bomba de chiclete, fazendo-o vetor ficar preso na gosma do chiclete."
                 ],
                 proxima: 3,
             },
             {
                 texto: "Gru aceita a proposta de vetor, seguindo os dois para sua vingança contra AVL.",
                 afirmacao: [
-                   "Gru acredita que será mais fácil e mais vingativo chamar os outros vilões, sendo eles El. macho, Balthazar Bratt e o Maxime Le Mal
-"
+                    "Gru acredita que será mais fácil e mais vingativo chamar os outros vilões, sendo eles El. macho, Balthazar Bratt e o Maxime Le Mal"
                 ],
                 proxima: 4,
             },
