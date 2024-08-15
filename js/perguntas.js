@@ -12,7 +12,7 @@ export const perguntas = [
             {
                 texto: "Ele recusou por estar cansado dessa vida, e só quer passar o tempo com a Lucy e as crianças ",
                 afirmacao: [
-                    "Como o Gru tinha dito estava. só querendo aproveitar sua aposentadoria, mas recebe outra ligação de um outro número desconhecido, e quando ele atende quem estava do outro lado? exato o Vetor, e ele fez seguinte pergunta "venha Gru se vingue comigo, vamos reviver o passado"
+                    "Como o Gru tinha dito estava só querendo aproveitar sua aposentadoria, mas recebe outra ligação de um outro número desconhecido, e quando ele atende quem estava do outro lado? exato o Vetor, e ele fez seguinte pergunta venha Gru se vingue comigo, vamos reviver o passado"
                 ],
                 proxima: 2,
             },
