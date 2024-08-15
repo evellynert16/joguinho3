@@ -2,7 +2,7 @@ export const perguntas = [
     {
         enunciado: " Gru estava tranquilamente aproveitando sua aposentadoria, quando de repente recebe uma ligação da AVL, em que se tratava de uma reatividade de seus serviços. que no caso seria para capturar e prender o VETOOORR AEEEE 
 ",
-        alternativas: [
+        alternativas: [loloololololo
             {
                 texto: "Isso é assustador!",
                 afirmacao: [
