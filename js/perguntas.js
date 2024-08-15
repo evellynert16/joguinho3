@@ -6,6 +6,9 @@ export const perguntas = [
                 texto: "Gru aceita a proposta e larga sua aposentadoria para prender o VETOOORR AEEEE",
                 afirmacao: [
                     "Senhor Bundowisk informa que Vetor está voltando de sua solidão na lua, e pretende aniquilar todos da AVL e principalmente o senhor Bundowisk, por ser seu parente e nunca ter ajudado a sair da lua, e Bundowisk queria saber se Gru com suas habilidades não poderia impedir os planos de Vetor. construindo uma super arma de gelo para impedir que Vetor destrua a AVL"
+                    "Ele ajuda o SR. Bundowisk a combater a maldade do seu sobrinho Vetor com arma de gelo."
+                    "ele concorda em ajudar, mas sugere fazer uma arma de bomba de chiclete, fazendo-o vetor ficar preso na gosma do chiclete.
+"
                 ],
                 proxima: 1,
             },
@@ -13,6 +16,8 @@ export const perguntas = [
                 texto: "Ele recusou por estar cansado dessa vida, e só quer passar o tempo com a Lucy e as crianças ",
                 afirmacao: [
                     "Como o Gru tinha dito estava só querendo aproveitar sua aposentadoria, mas recebe outra ligação de um outro número desconhecido, e quando ele atende quem estava do outro lado? exato o Vetor, e ele fez seguinte pergunta: venha Gru se vingue comigo, vamos reviver o passado?"
+               "Gru aceita a proposta de vetor, seguindo os dois para sua vingança contra AVL."
+               "Gru acredita que será mais fácil e mais vingativo chamar os outros vilões, sendo eles El. macho, Balthazar Bratt e o Maxime Le Mal"
                 ],
                 proxima: 2,
             },
