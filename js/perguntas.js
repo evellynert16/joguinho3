@@ -1,10 +1,9 @@
 export const perguntas = [
     {
-        enunciado: " Gru estava tranquilamente aproveitando sua aposentadoria, quando de repente recebe uma ligação da AVL, em que se tratava de uma reatividade de seus serviços. que no caso seria para capturar e prender o VETOOORR AEEEE 
-",
-        alternativas: [loloololololo
+        enunciado: " Gru estava tranquilamente aproveitando sua aposentadoria, quando de repente recebe uma ligação da AVL, em que se tratava de uma reatividade de seus serviços. que no caso seria para capturar e prender o VETOOORR AEEEE ",
+        alternativas: [
             {
-                texto: "Isso é assustador!",
+                texto: "Gru aceita a proposta e larga sua aposentadoria para prender o VETOOORR AEEEE",
                 afirmacao: [
                     "No início ficou com medo do que essa tecnologia pode fazer.",
                     "Achou assustador pensar na velocidade na qual a tecnologia está avançando."
@@ -12,7 +11,7 @@ export const perguntas = [
                 proxima: 1,
             },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "Ele recusou por estar cansado dessa vida, e só quer passar o tempo com a Lucy e as crianças ",
                 afirmacao: [
                     "Quis saber como usar IA no seu dia a dia.",
                     "Pensou que IA pode ajudar em tarefas da sua vida."
