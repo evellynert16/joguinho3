@@ -6,9 +6,6 @@ export const perguntas = [
                 texto: "Gru aceita a proposta e larga sua aposentadoria para prender o VETOOORR AEEEE",
                 afirmacao: [
                     "Senhor Bundowisk informa que Vetor está voltando de sua solidão na lua, e pretende aniquilar todos da AVL e principalmente o senhor Bundowisk, por ser seu parente e nunca ter ajudado a sair da lua, e Bundowisk queria saber se Gru com suas habilidades não poderia impedir os planos de Vetor. construindo uma super arma de gelo para impedir que Vetor destrua a AVL"
-                    "Ele ajuda o SR. Bundowisk a combater a maldade do seu sobrinho Vetor com arma de gelo."
-                    "ele concorda em ajudar, mas sugere fazer uma arma de bomba de chiclete, fazendo-o vetor ficar preso na gosma do chiclete.
-"
                 ],
                 proxima: 1,
             },
@@ -16,31 +13,29 @@ export const perguntas = [
                 texto: "Ele recusou por estar cansado dessa vida, e só quer passar o tempo com a Lucy e as crianças ",
                 afirmacao: [
                     "Como o Gru tinha dito estava só querendo aproveitar sua aposentadoria, mas recebe outra ligação de um outro número desconhecido, e quando ele atende quem estava do outro lado? exato o Vetor, e ele fez seguinte pergunta: venha Gru se vingue comigo, vamos reviver o passado?"
-               "Gru aceita a proposta de vetor, seguindo os dois para sua vingança contra AVL."
-               "Gru acredita que será mais fácil e mais vingativo chamar os outros vilões, sendo eles El. macho, Balthazar Bratt e o Maxime Le Mal"
+
                 ],
                 proxima: 2,
             },
         ]
     },
     {
-        enunciado: "Utilizar uma IA pode ser aterrorizante mesmo, e foi pensando nisso que uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Senhor Bundowisk informa que Vetor está voltando de sua solidão na lua, e pretende aniquilar todos da AVL e principalmente o senhor Bundowisk, por ser seu parente e nunca ter ajudado a sair da lua, e Bundowisk queria saber se Gru com suas habilidades não poderia impedir os planos de Vetor. construindo uma super arma de gelo para impedir que Vetor destrua a AVL",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "Ele ajuda o SR. Bundowisk a combater a maldade do seu sobrinho Vetor com arma de gelo."
+                
                 afirmacao: [
-                    "Conseguiu utilizar a IA para buscar informações úteis.",
-                    "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
-                    "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
+                    "ele concorda em ajudar, mas sugere fazer uma arma de bomba de chiclete, fazendo-o vetor ficar preso na gosma do chiclete.
+"
                 ],
                 proxima: 3,
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "Gru aceita a proposta de vetor, seguindo os dois para sua vingança contra AVL.",
                 afirmacao: [
-                    "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
-                    "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
-                    "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
+                   "Gru acredita que será mais fácil e mais vingativo chamar os outros vilões, sendo eles El. macho, Balthazar Bratt e o Maxime Le Mal
+"
                 ],
                 proxima: 4,
             },
