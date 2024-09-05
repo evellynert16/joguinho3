@@ -59,7 +59,7 @@ export const perguntas = [
                 ],
                 proxima: 4,
             },
-        ]
+        ],
     },
     {
         enunciado:
