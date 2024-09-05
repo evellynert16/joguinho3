@@ -34,7 +34,7 @@ export const perguntas = [
     },
     {
         enunciado: 
-        alternativas: [
+        alternativas [
             {
                 texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
                 afirmacao: [
@@ -52,12 +52,11 @@ export const perguntas = [
                     "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
                 ],
                 proxima: 4,
-            },
-        ],
+             },
     },
     {
         enunciado:
-        alternativas: [
+        alternativas [
             {
                 texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
                 afirmacao: [
@@ -74,7 +73,7 @@ export const perguntas = [
                 ],
                 proxima: 6,
             },
-        ]
+             
     },
     {
         enunciado: "Utilizar informações próprias traz um toque pessoal ao nosso trabalho. Agora imagine que você precisa participar de um debate sobre o quanto a IA impacta no trabalho do futuro. Qual posicionamento tomar?",
