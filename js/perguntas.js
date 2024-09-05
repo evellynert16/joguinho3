@@ -9,6 +9,8 @@ export const perguntas = [
                 ],
                 proxima: 1,
             },
+        {
+        }
         ]
     },
     {
