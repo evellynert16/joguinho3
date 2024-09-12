@@ -33,7 +33,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: 
+        enunciado: enunciado: "Senhor Bundowisk informa que Vetor está voltando de sua solidão na lua, e pretende aniquilar todos da AVL e principalmente o senhor Bundowisk, por ser seu parente e nunca ter ajudado a sair da lua, e Bundowisk queria saber se Gru com suas habilidades não poderia impedir os planos de Vetor. construindo uma super arma de gelo para impedir que Vetor destrua a AVL",
         alternativas [
             {
                 texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
